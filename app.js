@@ -73,7 +73,7 @@ const getUserData = async (queryString, params, id = null) => {
  */ 
 const getUsersInfo = async (users, output) => {
 
-	const data = [];
+	const data = [],
 		size = users.length;
 
 	try{
