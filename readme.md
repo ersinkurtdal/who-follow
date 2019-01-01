@@ -1,6 +1,6 @@
 # Twitter Who Follow App
 
-> This app creates a list of users who do not follow the current user back on Twitter. You can also see a list of users who are following the current user but the user haven't followed them yet.
+**This app creates a list of users who do not follow the current user back on Twitter. You can also see a list of users who are following the current user but the user haven't followed them yet.**
 
 Node.js must be installed. [https://nodejs.org/en/](https://nodejs.org/en/)
 
